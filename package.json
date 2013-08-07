@@ -1,0 +1,26 @@
+{
+  "name": "fis-optimizer-png-compressor",
+  "version": "0.0.1",
+  "description": "A optimizer for fis to compress png by using node-pngcrush and node-pngquant-native.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fis-dev/fis-optimizer-png-compressor.git"
+  },
+  "keywords": [
+      "fis", "minifier", "pngcrush",
+      "node-pngcrush", "pngquant",
+      "node-pngquant-native",
+      "png", "image", "compress",
+      "compressor"
+  ],
+  "dependencies": {
+      "node-pngcrush": "0.0.8",
+      "node-pngquant-native" : "0.0.3"
+  },
+  "author": "zhangyunlong <zhangyunlong@baidu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fis-dev/fis-optimizer-png-compressor/issues"
+  }
+}
