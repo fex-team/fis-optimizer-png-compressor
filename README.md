@@ -17,4 +17,4 @@ fis.config.merge({
 });
 ```
 
-    $ fis release --optimizer --dest ../output
+    $ fis release --optimize --dest ../output
